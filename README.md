@@ -18,3 +18,10 @@ homework4
 
 ![동전 카운트](https://github.com/user-attachments/assets/bec7c4bd-c908-4f9d-a32d-a3724483d319)
 유튜브 링크 https://youtu.be/UjXGE4VnobU
+
+
+homework5
+
+![image](https://github.com/user-attachments/assets/08cb787b-3ea5-4648-b909-226b257e937c)
+
+
